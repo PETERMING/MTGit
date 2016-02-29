@@ -1,0 +1,2 @@
+# MTGit
+First Git Program
